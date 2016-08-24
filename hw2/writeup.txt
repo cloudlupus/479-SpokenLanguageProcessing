@@ -1,0 +1,2 @@
+Please compile postproc.c into postproc else the shell script will not work.
+I have not provided a make file.
